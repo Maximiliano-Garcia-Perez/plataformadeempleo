@@ -55,7 +55,7 @@ $response = tap($kernel->handle(
 $kernel->terminate($request, $response);
 
 /*Esto es una pruba de git */
-/* hola maxy */ç
+/* hola maxy */
 /* esto es una prueba dos */
 /*Esto es una prueba 3 */
 
